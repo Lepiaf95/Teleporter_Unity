@@ -6,7 +6,7 @@ public class Teleport : MonoBehaviour
 {
     private Transform posStart;
 
-    public Player m_player; // Le FPSController
+    public Player m_player; // Le script du FPSController
 
 
     private void Start()
