@@ -7,3 +7,5 @@ How to teleport the player on a certain position :
 
 
 Now if your player cross the path of your "Teleporter" he should be teleported on your "spawn"
+
+TEST 22
